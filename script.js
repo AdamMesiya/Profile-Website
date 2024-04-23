@@ -2,13 +2,13 @@ document.addEventListener('DOMContentLoaded', function() {
 
   const firebaseConfig = {
     apiKey: "AIzaSyB5zxhCYFz4gnYz7jhrQxflU-Msl90bBfY",
-    authDomain: "profileapp-bbad5.firebaseapp.com",
-    databaseURL: "https://profileapp-bbad5-default-rtdb.firebaseio.com",
-    projectId: "profileapp-bbad5",
-    storageBucket: "profileapp-bbad5.appspot.com",
-    messagingSenderId: "85760187519",
-    appId: "1:85760187519:web:fa330c41b7f328fdeab34a",
-    measurementId: "G-MZWN2Y5LNL"
+  authDomain: "profileapp-bbad5.firebaseapp.com",
+  databaseURL: "https://profileapp-bbad5-default-rtdb.firebaseio.com",
+  projectId: "profileapp-bbad5",
+  storageBucket: "profileapp-bbad5.appspot.com",
+  messagingSenderId: "85760187519",
+  appId: "1:85760187519:web:fa330c41b7f328fdeab34a",
+  measurementId: "G-MZWN2Y5LNL"
   };
   firebase.initializeApp(firebaseConfig);
 
